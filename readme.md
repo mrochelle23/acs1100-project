@@ -12,7 +12,7 @@ This project provides a simple Python-based user login system that allows users 
 
 1. **Clone the Repository**: Clone the project files from GitHub.
    ```bash
-   git clone https://github.com/your-username/ACS-1100-Project.git
+   git clone https://github.com/your-username/acs1100-project.git
    cd ACS-1100-Project
    ```
 
