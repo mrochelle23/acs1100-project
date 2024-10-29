@@ -1,7 +1,3 @@
-Here's a README file draft for your ACS-1100 project, based on the details provided. I've outlined the purpose, installation, usage, and an overview of the files included in the project.
-
----
-
 # ACS-1100 Project
 
 This project provides a simple Python-based user login system that allows users to access account information securely based on stored usernames and passwords. Once logged in, users can view account details, including their balance.
